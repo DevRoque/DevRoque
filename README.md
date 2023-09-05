@@ -42,7 +42,7 @@ Hoje trabalho em uma empresa de Telecom aonde sou responsável por toda programa
 ## Interesses e Hobbies
 
 Meu interesse principal é fazer grandes amigos na area Programação para crescer meu nohall e aprender com eles
-Gosto de jogos de RPG, Sair com a Família e assistir séries
+gosto de jogos de RPG, sair com a família e assistir séries. 
 Estudo algumas tecnoligias por Hobbies também.
 ## Lição de Vida
 
