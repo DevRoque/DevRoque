@@ -1,7 +1,5 @@
 # Autobiografia
 
-![Imagem da capa da autobiografia](https://www.facebook.com/photo/?fbid=2643891062393582&set=a.114462188669828)
-
 Bem-vindo ao meu repositório de autobiografia! Aqui, vou compartilhar minha jornada pessoal, minhas experiências e as lições que aprendi ao longo da vida. Esta é uma maneira de compartilhar minha história com o mundo e espero que você encontre inspiração e insight ao ler.
 
 ## Sobre Mim
