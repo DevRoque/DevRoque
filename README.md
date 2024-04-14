@@ -35,15 +35,15 @@ Pretendo fazer PÓS em Engenharia de Software e Big Date para melhorar meus conh
 
 ## Carreira
 
-Eu comecei a trabalhando aos 16 com meu pai em uma empresa de Internet aonde aprendi a configurar Mikrotik, Ubiquit, e Routeadores e ser um bom tecnico até porque meu pai me cobrava isso o tempo todo.
-Trabalhei 5 anos em uma empresa aonde eu fui o Supervisor Geral, basicamente tomava conta de toda a estrutura de redes e ajudava na rua os meninos que pediam "SOS".
+Eu comecei a trabalhando aos 16 com meu pai em uma empresa de Internet aonde aprendi muitas coisas, ele sempre me incentivou a ser um bom tecnico.
+Trabalhei 5 anos em uma empresa aonde fui o Supervisor Geral, liderando e auxiliando as necessidades da equipe.
 Hoje trabalho em uma empresa de Telecom aonde sou responsável por toda programação e automoção dos serviços, gerencio também algumas ERP.
 
 ## Interesses e Hobbies
 
-Meu interesse principal é fazer grandes amigos na area Programação para crescer meu nohall e aprender com eles
-gosto de jogos de RPG, sair com a família e assistir séries. 
-Estudo algumas tecnoligias por Hobbies também.
+Meu interesse principal é fazer grandes amigos na area Programação para crescer meu nohall e aprender com eles.
+Gosto de jogos de RPG, sair com a família e assistir séries. 
+Estudo algumas tecnologias por Hobbies também.
 ## Lição de Vida
 
 Na vida ninguém cresce sozinho e se mantem lá encima por muito tempo, precisamos de amigos e familiares para nos motivar e crescer com a gente.
